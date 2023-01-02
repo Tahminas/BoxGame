@@ -1,0 +1,12 @@
+package BoxGame;
+
+import java.util.regex.MatchResult;
+
+public class Main {
+    public static void main(String[] args) {
+        Fighter f1=new Fighter("Tom",15,100,70,80);
+        Fighter f2=new Fighter("Garfield",15,95,75,60);
+        BoxGame.Match match1=new MatchResult;
+        match1.();
+    }
+}
